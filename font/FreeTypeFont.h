@@ -22,7 +22,7 @@ GNU General Public License for more details.
 
 extern "C"
 {
-    #include <fontconfig/fontconfig.h>
+    #include </usr/include/fontconfig/fontconfig.h>
     #include <ft2build.h>
     #include FT_FREETYPE_H
 }
